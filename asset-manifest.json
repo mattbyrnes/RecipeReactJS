@@ -1,16 +1,16 @@
 {
-  "main.css": "/RecipeReactJS/static/css/main.d897f648.chunk.css",
-  "main.js": "/RecipeReactJS/static/js/main.92151f5e.chunk.js",
-  "main.js.map": "/RecipeReactJS/static/js/main.92151f5e.chunk.js.map",
+  "main.css": "/RecipeReactJS/static/css/main.b7d40d47.chunk.css",
+  "main.js": "/RecipeReactJS/static/js/main.3a4f32ce.chunk.js",
+  "main.js.map": "/RecipeReactJS/static/js/main.3a4f32ce.chunk.js.map",
   "static/js/1.dec68f68.chunk.js": "/RecipeReactJS/static/js/1.dec68f68.chunk.js",
   "static/js/1.dec68f68.chunk.js.map": "/RecipeReactJS/static/js/1.dec68f68.chunk.js.map",
   "runtime~main.js": "/RecipeReactJS/static/js/runtime~main.a95dc2cd.js",
   "runtime~main.js.map": "/RecipeReactJS/static/js/runtime~main.a95dc2cd.js.map",
-  "static/css/main.d897f648.chunk.css.map": "/RecipeReactJS/static/css/main.d897f648.chunk.css.map",
+  "static/css/main.b7d40d47.chunk.css.map": "/RecipeReactJS/static/css/main.b7d40d47.chunk.css.map",
   "static/media/rec-pizza.jpg": "/RecipeReactJS/static/media/rec-pizza.b10e2c60.jpg",
   "static/media/rec-ramen-noodles.jpg": "/RecipeReactJS/static/media/rec-ramen-noodles.c8cfebf4.jpg",
   "static/media/rec-hot-pocket.jpg": "/RecipeReactJS/static/media/rec-hot-pocket.52a57015.jpg",
   "index.html": "/RecipeReactJS/index.html",
-  "precache-manifest.752383da382a427bfa912106524bbe62.js": "/RecipeReactJS/precache-manifest.752383da382a427bfa912106524bbe62.js",
+  "precache-manifest.e35c14327077356b88c0c107746f4f3e.js": "/RecipeReactJS/precache-manifest.e35c14327077356b88c0c107746f4f3e.js",
   "service-worker.js": "/RecipeReactJS/service-worker.js"
 }
